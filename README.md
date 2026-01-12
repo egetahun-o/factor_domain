@@ -1,5 +1,5 @@
 
-# Factor domain for Multi-Factor Authentication
+# Bypass Multi-Factor Authentication by email domain (factor_domain)
 
 This plugin is a Moodle Multi-Factor Authentication (MFA) factor that automatically passes MFA when a user’s email domain matches a configured allow‑list of domains.
 
